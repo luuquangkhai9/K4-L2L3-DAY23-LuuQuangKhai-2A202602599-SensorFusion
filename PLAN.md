@@ -4,6 +4,8 @@
 > seed 0. Bộ test gốc có 128 test pass; RMSE LiDAR 0.150323 m, fused
 > 0.135867 m. Báo cáo và sáu artifacts nằm trong student/. Hiện trạng ở mục 1
 > bên dưới là ảnh chụp ban đầu khi lập kế hoạch, không phải trạng thái cuối.
+> Repo GitHub đã được đổi thành K4-L2L3-DAY23-LuuQuangKhai-2A202602599-SensorFusion
+> theo xác nhận của học viên; bản bàn giao gắn tag day23-submission.
 
 ## 1. Mục tiêu và hiện trạng
 

@@ -7,7 +7,7 @@
 - Họ tên: Lưu Quang Khải
 - MSSV: 2A202602599
 - Email: toilaquangkhai@gmail.com (theo cấu hình Git hiện có)
-- Link repo (fork): https://github.com/luuquangkhai9/K4-Track4-Day23-LuuQuangKhai-2A202602599-SensorFusion
+- Link repo (fork): https://github.com/luuquangkhai9/K4-L2L3-DAY23-LuuQuangKhai-2A202602599-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`): Commit bàn giao được đánh dấu bằng tag `day23-submission`; lấy hash 40 ký tự bằng `git rev-parse day23-submission`. Tag trỏ tới commit chứa đầy đủ báo cáo và artifacts, tránh ghi hash tự tham chiếu trong chính commit đó.
 
 ## Tóm tắt kết quả
@@ -188,4 +188,5 @@ Ghi rõ, kể cả khi không dùng ("Không dùng AI"). Xem [RULES.md](../RULES
 - [x] Đã điền đủ file này, gồm khai báo AI
 - [x] Không commit dữ liệu Waymo, weights, `paths.yaml`, API key
 - [x] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP`
+- [x] Repo đã đổi tên theo quy định, push code/báo cáo/artifacts lên GitHub; bản bàn giao gắn tag `day23-submission`
 - [ ] Đã nộp link repo + commit hash trên LMS (học viên tự thực hiện sau bàn giao)
