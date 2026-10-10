@@ -1,6 +1,6 @@
 # Thư mục `student/`
 
-Đây là workspace bạn làm bài. Tài liệu đầy đủ nằm ở gốc repo:
+Đây là workspace làm bài. Tài liệu đầy đủ nằm ở gốc repo:
 
 - [README.md](../README.md) — tổng quan, cài đặt, lịch 2 giờ
 - [CHECKPOINTS.md](../CHECKPOINTS.md) — việc cần làm từng checkpoint
@@ -9,7 +9,7 @@
 
 | Đường dẫn | Nội dung |
 |---|---|
-| `workspace/` | Part A–D đọc hiểu; **Part E–H** bạn implement theo `# vi: TODO` |
+| `workspace/` | Part A–D đọc hiểu; **Part E–H** implement theo `# vi: TODO` |
 | `tests/` | Bộ tự kiểm tra, gồm bản sao các test E–H dùng khi chấm |
 | `config/paths.example.yaml` | Mẫu cấu hình; copy thành `paths.yaml` (không commit) |
 | `artifacts/` | `metrics.json`, `grade_run.log` do `fusion-run-lab` sinh ra — phải commit |
