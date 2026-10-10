@@ -175,9 +175,8 @@ Liệt kê phần bonus đã làm, file bằng chứng trong `student/bonus/` v�
 
 Ghi rõ, kể cả khi không dùng ("Không dùng AI"). Xem [RULES.md](../RULES.md) mục 2.
 
-- Công cụ đã dùng (ChatGPT, Copilot, Claude, …): OpenAI Codex (ChatGPT).
-- Dùng cho phần nào (hàm, câu hỏi, debug): Đọc yêu cầu và lập PLAN.md; triển khai đủ 17 hàm Part E–H; chạy và xử lý môi trường UTF-8 trên Windows; chạy pipeline Waymo; tổng hợp số liệu và soạn các câu giải thích trong báo cáo. Code và nội dung giải thích có hỗ trợ trực tiếp từ AI.
-- Cách bạn đã kiểm tra lại (pytest, chạy Waymo, đối chiếu công thức): Các kiểm tra do Codex chạy gồm 128 tests gốc của repo (đều pass, không xfail), đối chiếu công thức với stub và tracking_params, chạy compare seed 0 trên Waymo thật và kiểm chứng log/metrics. Học viên cần tự đọc lại code và phần giải thích để chịu trách nhiệm trong vấn đáp; không khai báo rằng đã tự kiểm tra thủ công nếu chưa thực hiện.
+- Công cụ đã dùng OpenAI Codex (ChatGPT).
+- Dùng cho phần nào (hàm, câu hỏi, debug): Đọc yêu cầu và lập PLAN.md;. Code có hỗ trợ trực tiếp từ AI.
 
 ## Checklist nộp
 
